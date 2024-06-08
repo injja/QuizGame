@@ -1,0 +1,20 @@
+Hotel California
+Eagles
+music/test.wav
+1976
+Like a Rolling Stone
+Bob Dylan
+music/test.wav
+1965
+Lose Yourself
+Eminem
+music/test.wav
+2002
+Wonderwall
+Oasis
+music/test.wav
+1995
+Stairway to Heaven
+Led Zeppelin
+music/test.wav
+1971

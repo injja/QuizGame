@@ -1,0 +1,32 @@
+Smells Like Teen Spirit
+Nirvana
+music/test.wav
+1991
+Imagine
+John Lennon
+music/test.wav
+1971
+Hey Jude
+The Beatles
+music/test.wav
+1968
+Royals
+Lorde
+music/test.wav
+2013
+Sweet Child O' Mine
+Guns N' Roses
+music/test.wav
+1987
+Thriller
+Michael Jackson
+music/test.wav
+1982
+Yesterday
+The Beatles
+music/test.wav
+1965
+Blinding Lights
+The Weeknd
+music/test.wav
+2019

@@ -1,0 +1,69 @@
+Despacito 
+Luis Fonsi 
+music/test.wav
+2017
+Loca
+Shakira
+music/test.wav
+2005
+Bohemian Rhapsody
+Queen
+music/test.wav
+1975
+Billie Jean
+Michael Jackson
+music/test.wav
+1982
+Shape of You
+Ed Sheeran
+music/test.wav
+2017
+Rolling in the Deep
+Adele
+music/test.wav
+2010
+Uptown Funk
+Mark Ronson ft. Bruno Mars
+music/test.wav
+2014
+Halo
+Beyoncé
+music/test.wav
+2008
+Gangnam Style
+Psy
+music/test.wav
+2012
+I Will Always Love You
+Whitney Houston
+music/test.wav
+1992
+Poker Face
+Lady Gaga
+music/test.wav
+2008
+Rolling in the Deep
+Adele
+music/test.wav
+2010
+All of Me
+John Legend
+music/test.wav
+2013
+Someone Like You
+Adele
+music/test.wav
+2011
+Shake It Off
+Taylor Swift
+music/test.wav
+2014
+Call Me Maybe
+Carly Rae Jepsen
+music/test.wav
+2011
+Firework
+Katy Perry
+music/test.wav
+2010
+
